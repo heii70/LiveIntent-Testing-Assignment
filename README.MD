@@ -8,7 +8,11 @@ The following Python modules are needed:
 	virtualenv
 	
 	To install virtualenv, run: "python -m pip install virtualenv"
-	
+
+Clone repository:
+
+	Run "git clone https://github.com/heii70/LiveIntent-Testing-Assignment.git"
+
 Create virtual environment and install dependencies:
 	
 	open a terminal and navigate to the root of the work folder
